@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  QuickSort.cpp
+c:\users\anshu\documents\github\advanced-algorithms-c--\quicksort\quicksort\quicksort.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  QuickSort.vcxproj -> C:\Users\anshu\Documents\GitHub\Advanced-Algorithms-C--\QuickSort\Debug\QuickSort.exe
